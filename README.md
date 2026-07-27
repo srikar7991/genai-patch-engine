@@ -294,4 +294,4 @@ To use another local model, change `MODEL` and `ollama pull` the tag you need.
 
 ## License
 
-Add your license file (e.g. `LICENSE`) and reference it here when publishing the repository.
+:)
